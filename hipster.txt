@@ -1,3 +1,0 @@
-This is my sample file
-appending this text line
-this is random change
