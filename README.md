@@ -14,3 +14,5 @@ This file is README file
 
 ## How to contribute
 
+This is Copyright 2014 Git.Training
+
