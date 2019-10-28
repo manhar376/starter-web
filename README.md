@@ -15,4 +15,4 @@ This file is README file
 ## How to contribute
 
 This is Copyright 2018 Git.Training
-
+Please rate the course if you like it
