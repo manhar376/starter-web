@@ -14,5 +14,5 @@ This file is README file
 
 ## How to contribute
 
-This is Copyright 2017 Git.Training
+This is Copyright 2018 Git.Training
 
